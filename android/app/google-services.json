@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656359629176",
+    "project_id": "banaonotesapptask3",
+    "storage_bucket": "banaonotesapptask3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656359629176:android:bfc735ac97c24d52d3288d",
+        "android_client_info": {
+          "package_name": "com.example.banao_notes_app_task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMXpEvxEQ_lTVynQA2pmK_fkKDsP7PMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
