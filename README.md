@@ -1,16 +1,29 @@
 # banao_notes_app_task3
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A new Flutter project on note application for Banao task 3.
 
-A few resources to get you started if this is your first Flutter project:
+In this task, we have made the notes application using the flutter_bloc package that helps in state management.
+In this application, a user can perform CRUD activity to manipulate data and save data into Firebase Firestore and it also has
+Google authentication for security purposes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Home Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/m-gaurav890/banao_notes_app_task3/assets/86715384/0d2bddd2-95c6-40fe-b32d-0128a1fef455)
+
+
+# Note View Screen
+
+
+![image](https://github.com/m-gaurav890/banao_notes_app_task3/assets/86715384/a0e0faa5-d0b7-4f15-9a03-c5817104e9e6)
+
+
+# Update & Edit Note Screen
+
+![image](https://github.com/m-gaurav890/banao_notes_app_task3/assets/86715384/16e09c2f-1fbd-433c-8c5e-3b03dbc1d043)
+
+
+# Thank You
